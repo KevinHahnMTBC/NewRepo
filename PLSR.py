@@ -3,6 +3,7 @@
 n = 1000
 p = 7
 madeupstuff = 'A billion'
+madeupstuff2 = 'Ten trillion'
 
 #hey
 
