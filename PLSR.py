@@ -2,6 +2,7 @@
 # Number of datapoints and features 
 n = 1000
 p = 7
+madeupstuff = 'A billion'
 
 #hey
 
